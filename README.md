@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an implementation of a simple feed-forward neural network built from scratch using Python and NumPy. The neural network features two hidden layers, allowing it to effectively model complex relationships within the data. It is designed to be modular, enabling users to adapt and extend it for various machine learning tasks.
+This repository contains an implementation of a simple feed-forward neural network built from scratch using Python and NumPy. The neural network features two hidden layers, allowing it to effectively model complex relationships within the data. 
 
 The model is applied to a heart disease classification dataset, which determines whether or not a person has heart disease based on several health-related factors. This showcases the network's application in real-world scenarios and its capability for binary classification tasks.
 
@@ -33,13 +33,13 @@ pip install numpy pandas matplotlib jupyter
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Heart-Disease-Prediction.git
+   git clone https://github.com/talche/490ps3.git
    cd Heart-Disease-Prediction
    ```
 
 2. **Open and Run the Jupyter Notebook**:
    ```bash
-   jupyter notebook NeuralNetwork.ipynb
+   jupyter notebook ps3main.ipynb
    ```
 
 ## Dataset
